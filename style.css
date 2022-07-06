@@ -31,6 +31,10 @@ body {
     color: rgba(0, 0, 0, 0.596);
 }
 
+.padding {
+    padding-bottom: 10%;
+}
+
 .other {
     margin-top: 10%;
     color: rgba(0, 0, 0, 0.596);
@@ -52,4 +56,92 @@ body {
 #abid {
     border: solid 2px solid red;
     background-color: ;
+}
+
+.idea {
+    padding-top: 50px;
+}
+
+.part3 {
+    display: flex;
+    padding: 30px;
+    padding-left: 30px;
+}
+
+.part01 {
+    padding: 30px;
+    margin: 10px;
+    background-color: #daeaf1e3;
+}
+
+.part02 {
+    padding: 30px;
+    margin: 10px;
+    background-color: #FFE6E6;
+}
+
+.part03 {
+    padding: 30px;
+    margin: 10px;
+    background-color: #F5F0BB;
+}
+
+.part4 {
+    display: flex;
+    margin-bottom: 100px;
+}
+
+.half-width {
+    width: 50%;
+    margin-left: 7%;
+}
+
+.part5 {
+    display: flex;
+    margin-bottom: 100px;
+
+}
+
+.last {
+    text-align: center;
+    margin: 5% 20%;
+}
+
+.contact {
+    text-align: center;
+    background-color: #F5F0BB;
+    padding: 50px;
+    margin-left: 25%;
+    margin-right: 25%;
+
+}
+
+#email {
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 5px;
+    background-color: rgba(128, 128, 128, 0.671);
+    font-size: 1rem;
+}
+
+#subscribe {
+    text-decoration: none;
+    background-color: orangered;
+    padding: 12px 20px;
+    border-radius: 5px;
+    color: white;
+    margin-left: -7px;
+}
+
+.footer {
+    text-align: center;
+    background-color: black;
+    color: orangered;
+    padding: 10px;
+    font-size: 18px;
+    margin-top: 5%;
+}
+
+.do {
+    color: rgba(180, 168, 168, 0.404);
 }
