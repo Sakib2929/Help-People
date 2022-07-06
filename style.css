@@ -19,6 +19,7 @@ body {
     color: white;
 }
 
+
 .part2 {
     color: black;
     text-align: center;
@@ -26,5 +27,29 @@ body {
 }
 
 .paragraph {
+    padding-bottom: 5%;
     color: rgba(0, 0, 0, 0.596);
+}
+
+.other {
+    margin-top: 10%;
+    color: rgba(0, 0, 0, 0.596);
+    font-size: 13px;
+}
+
+.solid {
+    border-top: 1px solid #bbb;
+    margin-bottom: 5%;
+}
+
+.part2 span {
+    margin: 3px;
+    background-color: rgba(128, 128, 128, 0.329);
+    padding: 30px;
+    border-radius: 5px;
+}
+
+#abid {
+    border: solid 2px solid red;
+    background-color: ;
 }
