@@ -1,0 +1,30 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.center {
+    padding: 200px;
+    color: white;
+    text-align: center;
+    background-image: url(341ecb3733f192a8d6a4e5bd0fce673e.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.button {
+    text-decoration: none;
+    background-color: orangered;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+}
+
+.part2 {
+    color: black;
+    text-align: center;
+    margin: 5% 20%;
+}
+
+.paragraph {
+    color: rgba(0, 0, 0, 0.596);
+}
